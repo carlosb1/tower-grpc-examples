@@ -1,0 +1,1 @@
+{"rustc":12668163924266038754,"features":"[]","target":13001299510291073585,"profile":9935990280773120926,"path":5209719979234023060,"deps":[["failure v0.1.5","failure",16509766750356220568],["libc v0.2.50","libc",2260648671691540370]],"local":[{"Precalculated":"2.0.1"}],"rustflags":[],"edition":"Edition2015"}
